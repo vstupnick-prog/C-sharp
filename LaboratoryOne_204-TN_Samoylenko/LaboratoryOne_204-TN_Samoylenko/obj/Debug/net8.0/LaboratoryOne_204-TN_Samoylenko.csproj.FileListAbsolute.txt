@@ -1,0 +1,14 @@
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\bin\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.exe
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\bin\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.deps.json
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\bin\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.runtimeconfig.json
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\bin\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.dll
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\bin\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.pdb
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.AssemblyInfoInputs.cache
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.AssemblyInfo.cs
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.csproj.CoreCompileInputs.cache
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.dll
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\refint\LaboratoryOne_204-TN_Samoylenko.dll
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.pdb
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\LaboratoryOne_204-TN_Samoylenko.genruntimeconfig.cache
+C:\Users\vstup\source\repos\LaboratoryOne_204-TN_Samoylenko\LaboratoryOne_204-TN_Samoylenko\obj\Debug\net8.0\ref\LaboratoryOne_204-TN_Samoylenko.dll
